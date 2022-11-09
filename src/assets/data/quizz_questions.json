@@ -1,0 +1,55 @@
+{
+    "title":"Vai dar Brasil na Copa ou não?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Quem vai ser o craque da Copa ?",
+        "options":[
+          {"id": 1, "name":"Cristiano Ronaldo", "alias":"A"},
+          {"id": 2, "name":"Neymar", "alias":"B"},
+          {"id": 3, "name":"Messi", "alias":"A"},
+          {"id": 4, "name":"Vini Jr", "alias":"B"},
+          {"id": 5, "name":"Mbappé", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Como vai ser a fase de grupos para o Brasil ?",
+        "options":[
+          {"id": 1, "name":"Brasil passa com dificuldade", "alias":"A"},
+          {"id": 2, "name":"Brasil cai na primeira fase", "alias":"A"},
+          {"id": 3, "name":"Brasil vai passar sobrando", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual a sua maior preocupação na Copa ?",
+        "options":[
+          {"id": 1, "name":"Ter que trabalhar em dia de jogo do Brasil", "alias":"B"},
+          {"id": 2, "name":"Neymar ficar se atirando no chão", "alias":"A"},
+          {"id": 3, "name":"Perder para a Argentina", "alias":"A"},
+          {"id": 4, "name":"Decidir entre a camisa amarela ou a azul", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "O Tite convocou bem ?",
+        "options":[
+          {"id": 1, "name":"Fala sério, faltou o GabiGol", "alias":"A"},
+          {"id": 2, "name":"Sim, vamo Tite!", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Quem disputou mais jogos pelo Brasil ?",
+        "options":[
+          {"id": 1, "name":"Roberto Carlos", "alias":"A"},
+          {"id": 2, "name":"Cafu", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Você muito provavelmente é um(a) secador(a)!",
+      "B": "Se depender de você o HEXA vemmmmm !"
+    }
+  }
